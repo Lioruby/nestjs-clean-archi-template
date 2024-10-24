@@ -24,7 +24,11 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) framework TypeScript Clean architecture template.
+
+This repository applies clean architecture, DDD and a TDD-friendly configuration to a NestJS application.
+
+The CommonCore BC is used in shared kernel with the other BCs.
 
 ## Installation
 
