@@ -7,7 +7,7 @@ describe('Get Hello Usecase', () => {
     usecase = new GetHello();
   });
 
-  it('should return "Hello World!"', async () => {
+  it('should says "Hello World!"', async () => {
     const result = await usecase.execute();
     expect(result.text).toBe('Hello World!');
   });
