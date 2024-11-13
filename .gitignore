@@ -37,3 +37,9 @@ lerna-debug.log*
 # ENV
 .env
 .env.*
+
+# PNPM
+pnpm-lock.yaml
+
+# Yarn
+yarn.lock
